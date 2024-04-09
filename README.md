@@ -10,3 +10,4 @@
 <img width="960" alt="ONGsite" src="https://github.com/zevolpato/Avaliacao_UC08/assets/8071758/494bb7c0-36c5-4168-a901-8b24afdf2211">
 <img width="960" alt="mercado" src="https://github.com/zevolpato/Avaliacao_UC08/assets/8071758/aebb8d23-1fd7-4542-ae75-178b838babc6">
 <img width="960" alt="barbearia" src="https://github.com/zevolpato/Avaliacao_UC08/assets/8071758/de414b85-a450-4687-b0e0-5d1af6005ccb">
+![Anotação 2024-04-09 142913](https://github.com/Pabenini/Avaliacao_UC08/assets/142833867/3a4b1ae2-2a93-4f7f-8b9b-3b066ffbbb64)
