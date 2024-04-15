@@ -23,7 +23,7 @@ CREATE TABLE Pessoa (
 	numero_casa INT NOT NULL,
 	fk_Endereco INT NOT NULL,
 	PRIMARY KEY (idPessoa),
-	FOREIGN KEY (fk_Endereco) REFERENCES Endereco (idEndereco),
+	FOREIGN KEY (fk_Endereco) REFERENCES Endereco (idEndereco)
 );
 
 desc Pessoa;
@@ -35,7 +35,7 @@ CREATE TABLE Telefone (
 	operadora VARCHAR(45) NOT NULL,
 	fk_Pessoa INT NOT NULL,
 	PRIMARY KEY (idTelefone),
-	FOREIGN KEY (fk_Pessoa) REFERENCES Pessoa (idPessoa),
+	FOREIGN KEY (fk_Pessoa) REFERENCES Pessoa (idPessoa)
 );
 
 desc Telefone;
