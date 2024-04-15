@@ -25,7 +25,7 @@ CREATE TABLE ItensVendidos (
 	quantidade INT NOT NULL,
 	fk_idVendas INT NOT NULL,
 	fk_idProdutos INT NOT NULL,
-	PRIMARY KEY (idItensVendidos)
+	PRIMARY KEY (idItensVendidos),
 	FOREIGN KEY (fk_idVendas) REFERENCES Vendas (idVendas),
 	FOREIGN KEY (fk_idProdutos) REFERENCES Produtos (idProdutos)
 );
